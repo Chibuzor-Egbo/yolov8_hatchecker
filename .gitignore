@@ -1,0 +1,10 @@
+# Ignore all .jpg files
+*.jpg
+
+# Ignore all .mp4 files
+*.mp4
+*.jpeg
+*.webp
+
+# Ignore .DS_Store files
+.DS_Store
